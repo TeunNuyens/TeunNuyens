@@ -6,5 +6,5 @@
 
 ## Hit me up!
 
-[LinkedIn](https://www.linkedin.com/in/teun-nuyens-74b901196/) • [Email](mailto:teunnuyens@gmail.com)
+[!LinkedIn](https://www.linkedin.com/in/teun-nuyens-74b901196/) • [!Email](mailto:teunnuyens@gmail.com)
 
